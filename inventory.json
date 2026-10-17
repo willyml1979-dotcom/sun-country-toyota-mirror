@@ -1,10 +1,36 @@
 {
   "dealership": "Sun Country Toyota",
-  "generated_at": "2026-10-08T14:53:03",
-  "vehicle_count": 1,
+  "generated_at": "2026-10-16T19:03:37",
+  "vehicle_count": 3,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "Used Vehicles for Sale",
+      "stock": "26316A",
+      "url": "https://willyml1979-dotcom.github.io/sun-country-toyota-mirror/used/e873be7b260c.html",
+      "source_url": "https://www.suncountrytoyota.ca/en/used-inventory/hyundai/venue/2022-hyundai-venue-id38712874",
+      "dealer_url": "https://www.suncountrytoyota.ca/en/used-inventory/hyundai/venue/2022-hyundai-venue-id38712874?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T19:01:51",
+      "price": 45385.0,
+      "price_currency": "CAD",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "Used Vehicles for Sale",
+      "stock": "26316A",
+      "url": "https://willyml1979-dotcom.github.io/sun-country-toyota-mirror/used/7dce47adef2f.html",
+      "source_url": "https://www.suncountrytoyota.ca/en/used-inventory/toyota/corolla/2018-toyota-corolla-id39221103",
+      "dealer_url": "https://www.suncountrytoyota.ca/en/used-inventory/toyota/corolla/2018-toyota-corolla-id39221103?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T19:02:31",
+      "price": 45385.0,
+      "price_currency": "CAD",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
+    },
     {
       "name": "New Vehicles in Inventory",
       "stock": "27009",
