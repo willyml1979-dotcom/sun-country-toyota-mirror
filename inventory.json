@@ -1,7 +1,7 @@
 {
   "dealership": "Sun Country Toyota",
-  "generated_at": "2026-10-16T19:03:37",
-  "vehicle_count": 3,
+  "generated_at": "2026-10-16T20:02:55",
+  "vehicle_count": 2,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -28,19 +28,6 @@
       "price": 45385.0,
       "price_currency": "CAD",
       "condition": "used",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "New Vehicles in Inventory",
-      "stock": "27009",
-      "url": "https://willyml1979-dotcom.github.io/sun-country-toyota-mirror/new/9ac8aa30c279.html",
-      "source_url": "https://www.suncountrytoyota.ca/en/new-inventory/toyota/4runner/2026-toyota-4runner-id39223404",
-      "dealer_url": "https://www.suncountrytoyota.ca/en/new-inventory/toyota/4runner/2026-toyota-4runner-id39223404?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T07:33:48",
-      "price": 31678.0,
-      "price_currency": "CAD",
-      "condition": "new",
       "city": "Kamloops",
       "province": "BC"
     }
