@@ -1,0 +1,16 @@
+{
+  "dealership": "Sun Country Toyota",
+  "generated_at": "2026-10-25T15:04:03",
+  "vehicle_count": 1,
+  "currency": "CAD",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
+  "vehicles": [
+    {
+      "name": "New Vehicles in Inventory",
+      "url": "https://willyml1979-dotcom.github.io/sun-country-toyota-mirror/new/3dc5e5ab80df.html",
+      "condition": "new",
+      "price": 60439.0,
+      "price_currency": "CAD"
+    }
+  ]
+}
