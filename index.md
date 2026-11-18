@@ -1,6 +1,6 @@
 # Sun Country Toyota
 
- dealership in Kamloops. AI-readable inventory mirror, about 2 vehicles.
+ dealership in Kamloops. AI-readable inventory mirror, about 3 vehicles.
 
 - Official website: https://www.suncountrytoyota.ca/en
 - Used vehicles: https://willyml1979-dotcom.github.io/sun-country-toyota-mirror/used/
